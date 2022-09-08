@@ -1,1 +1,1 @@
-A simple dice game created with basic javascript document object modeling, and tailnwind css framework used for styling.
+A simple dice game created with basic javascript document object modeling, and tailwind css framework used for styling.
